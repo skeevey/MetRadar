@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <gadget>
 	<name>MetRadar</name>
 	<namespace>Sean Keevey</namespace>
 	<version>1.0.0.1</version>
 	<author name="Sean Keevey"></author>
-  	<copyright>&#0169; 2010</copyright>
+  	<copyright>MetRadar Copyright (C) 2011  Sean Keevey</copyright>
   	<description>Displays the latest rainfall-radar from Met Eireann. Refreshes every ten minutes.</description>
   	<icons>
     		<icon width="64" height="64" src="icon.png" />
